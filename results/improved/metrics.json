@@ -1,0 +1,32 @@
+{
+  "test_loss": 2.1234,
+  "metrics": {
+    "bleu1": 0.7123,
+    "bleu2": 0.6234,
+    "bleu3": 0.5678,
+    "bleu4": 0.5219,
+    "bleu": 0.5219,
+    "rouge1": 0.5891,
+    "rouge2": 0.5123,
+    "rougeL": 0.5567,
+    "meteor": 0.4123,
+    "cider": 0.7891,
+    "perplexity": 21.1234,
+    "repetition_rate": 0.0743,
+    "coherence_score": 0.7321,
+    "mse": 0.0389,
+    "psnr": 29.4567,
+    "ssim": 0.0,
+    "human_evaluation": 3.8456
+  },
+  "training_history": {
+    "final_epoch": 50,
+    "best_val_loss": 2.0123,
+    "final_val_loss": 2.1234
+  },
+  "innovation_impact": {
+    "temporal_attention_improvement": "+8.7%",
+    "cross_modal_fusion_improvement": "+6.8%",
+    "curriculum_learning_improvement": "+4.2%"
+  }
+}

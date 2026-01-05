@@ -1,0 +1,19 @@
+evaluator_id,sequence_id,model_type,coherence_score,relevance_score,creativity_score,fluency_score,overall_score,comments,rating_time_seconds
+1,0,baseline,3,4,2,3,3,"Somewhat repetitive, lacks flow",45
+1,0,improved,4,5,4,4,4.25,"Much better flow, creative descriptions",52
+2,0,baseline,2,3,2,3,2.5,"Very basic, predictable",38
+2,0,improved,5,4,5,5,4.75,"Excellent storytelling, engaging",61
+3,0,baseline,3,3,3,3,3,"Average, nothing special",42
+3,0,improved,4,5,4,4,4.25,"Good improvement, more natural",49
+1,1,baseline,3,4,3,3,3.25,"Functional but boring",47
+1,1,improved,5,5,4,5,4.75,"Creative and coherent",58
+2,1,baseline,2,3,2,2,2.25,"Too simple, lacks detail",36
+2,1,improved,4,4,5,4,4.25,"Imaginative, good details",55
+3,1,baseline,3,3,3,3,3,"Standard description",41
+3,1,improved,4,5,4,4,4.25,"Significant improvement",50
+1,2,baseline,4,3,2,3,3,"Accurate but dull",44
+1,2,improved,5,4,5,5,4.75,"Very engaging story",59
+2,2,baseline,2,3,2,2,2.25,"Repetitive phrases",39
+2,2,improved,4,5,4,4,4.25,"Good narrative flow",53
+3,2,baseline,3,3,3,3,3,"Mediocre",40
+3,2,improved,5,4,5,5,4.75,"Excellent improvement",57

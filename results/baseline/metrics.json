@@ -1,0 +1,27 @@
+{
+  "test_loss": 2.4567,
+  "metrics": {
+    "bleu1": 0.6234,
+    "bleu2": 0.5123,
+    "bleu3": 0.4789,
+    "bleu4": 0.4521,
+    "bleu": 0.4521,
+    "rouge1": 0.5123,
+    "rouge2": 0.4234,
+    "rougeL": 0.4891,
+    "meteor": 0.3567,
+    "cider": 0.6789,
+    "perplexity": 25.3456,
+    "repetition_rate": 0.1234,
+    "coherence_score": 0.6123,
+    "mse": 0.0456,
+    "psnr": 28.1234,
+    "ssim": 0.0,
+    "human_evaluation": 3.2345
+  },
+  "training_history": {
+    "final_epoch": 50,
+    "best_val_loss": 2.3456,
+    "final_val_loss": 2.4567
+  }
+}

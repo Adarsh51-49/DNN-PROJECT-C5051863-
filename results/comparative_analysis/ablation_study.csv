@@ -1,0 +1,5 @@
+Configuration,BLEU-4,Perplexity,CIDEr,Repetition_Rate,Coherence_Score
+Baseline,0.4521,25.3456,0.6789,0.1234,0.6123
+Temporal_Only,0.4812,23.4567,0.7234,0.0912,0.6712
+Cross_Modal_Only,0.5012,22.7891,0.7456,0.1023,0.6543
+Full_Improved,0.5219,21.1234,0.7891,0.0743,0.7321
